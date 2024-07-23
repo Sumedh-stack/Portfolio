@@ -22,7 +22,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import expressJs from "./tech/expressJs.png"
-import SpringBoot from "./tech/springBoot.png"
+import SpringBoot from "./tech/springboot.png"
 import Sequlize from "./tech/sequelizeOrm.png"
 
 import parsec from "./company/parsec.png"
